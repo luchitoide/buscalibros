@@ -54,10 +54,10 @@ mvn spring-boot:run
 
 
 ## Cómo Usar
-Opciones del Menú
-Buscar libro por título: Ingresa el título del libro para obtener los detalles desde la API de Gutendex y guardarlos en la base de datos.
-Listar libros registrados: Muestra todos los libros almacenados en la base de datos.
-Listar autores registrados: Muestra todos los autores almacenados en la base de datos.
-Listar autores vivos en un año específico: Ingresa un año para ver los autores que estaban vivos en ese periodo.
-Listar libros por idioma: Ingresa un código de idioma (p. ej., es, en) para ver los libros en ese idioma.
-Salir: Cierra la aplicación.
+Opciones del Menú:
+1. Buscar libro por título: Ingresa el título del libro para obtener los detalles desde la API de Gutendex y guardarlos en la base de datos.
+2. Listar libros registrados: Muestra todos los libros almacenados en la base de datos.
+3. Listar autores registrados: Muestra todos los autores almacenados en la base de datos.
+4. Listar autores vivos en un año específico: Ingresa un año para ver los autores que estaban vivos en ese periodo.
+5. Listar libros por idioma: Ingresa un código de idioma (p. ej., es, en) para ver los libros en ese idioma.
+0. Salir: Cierra la aplicación.
